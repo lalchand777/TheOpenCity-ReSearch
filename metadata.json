@@ -1,0 +1,5 @@
+{
+  "name": "Electoral Integrity Analysis",
+  "description": "A web application that presents a detailed factual analysis of the 'vote theft' allegations in Indian elections, based on the provided report.",
+  "requestFramePermissions": []
+}
